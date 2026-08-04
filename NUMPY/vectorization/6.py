@@ -7,3 +7,8 @@ print(np.max(arr))
 print(np.mean(arr))
 print(np.std(arr))
 print(np.var(arr))
+
+print(np.square(arr))    
+print(np.sqrt(arr))      
+print(np.pow(arr, 3)) 
+

@@ -69,6 +69,12 @@ for price in prices:
   final_prices.append(final_price)
 print(final_prices)
 
+#mainnnnnnnn
+arr = np.array([1, 2, -5, 3, 8, -4, 2, 5])
+print(np.abs(arr))     # [1 2 5 3 8 4 2 5]
+print(np.sort(arr))    # [-5 -4  1  2  2  3  5  8]
+print(np.unique(arr))  # [-5 -4  1  2  3  5  8]
+
 
  
 
